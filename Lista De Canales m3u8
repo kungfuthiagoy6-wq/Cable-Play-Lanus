@@ -1,0 +1,245 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"93f2e70d452d4fc2ae0c477ca66b29be":"b204d146d7f369bc3c5a87acfcfb6532"}
+#EXTINF:-1,Telefe
+https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84897c5e56ab4e79b5dbf966c133fb20":"bf39dcd7566f4a772fe18d7b52e2336f"}
+#EXTINF:-1,Argentinisima Satelital
+https://bvclive1.boldmss.com/ARGENTINISIMA_SATELITAL/ARGENTINISIMA_SATELITAL_BVC.isml/ARGENTINISIMA_SATELITAL.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6243f46366445ebbf3117ec27365481":"81667cdc3bcf19a6a66c0919fa00a20b"}
+#EXTINF:-1,Argentinisima Satelital HD
+https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd
+
+#EXTINF:-1,Canal Thiago Buenos Aires
+https://live20.bozztv.com/akamaissh101/ssh101/mychannel2019/chunks.m3u8
+
+#EXTINF:-1,Canal Benja Buenos Aires
+https://live20.bozztv.com/akamaissh101/ssh101/canalbenjaching/playlist.m3u8
+
+#EXTINF:-1,TV Hugo Buenos Aires
+https://usb.bozztv.com/tvchannael2012/index.m3u8
+
+#EXTINF:-1,Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6e88815a08b44c73a191161d3c15d890":"9193a6d29f77bd651b9277f8f70b61b5"}
+#EXTINF:-1,El Trece
+https://cdn.trimi.com.ar/live/sm-live/C4N4L_TR3C3/sa_live_dash/C4N4L_TR3C3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9825d6a017d5406e8bc50bb2bc7857c9":"26196b3593c359c226bb7637cb188ce4"}
+#EXTINF:-1,TV Publica
+https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"737a88876b64489ab46cf69f8c5dfe5a":"bf0ae0a5210cb0604e465690c201eec4"}
+#EXTINF:-1,America TV
+https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f1527881baf4166865452f046d8f445":"d192df40da8a2c752a8a921f827c325f"}
+#EXTINF:-1,El Nueve
+https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=key1&key%5B%5D=key2
+#EXTINF:-1,CN24
+https://apps.playme.com.ar/dash/CH_UNIFE/playlist.mpd
+
+#EXTINF:-1,Canal 26
+https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+
+#EXTINF:-1,C5N
+https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
+
+#EXTINF:-1,Cronica TV
+https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
+
+#EXTINF:-1,LN
+https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+
+#EXTINF:-1,TN
+https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"58b7b99c78d841bd841ffcf001a2c397":"eccfd978965e89e1afe14d7c3b38f7d8"}
+#EXTINF:-1,Tyc Sports
+https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_BACKUP_9-6/sa_live_dash_ll/TYC_SPORTS_BACKUP_9-6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"090604e982684762a8f8bf752c110b61":"bd39fbeeb70aae5322fc163831cc2f8a"}
+#EXTINF:-1,Tyc Sports 2
+https://bvclive1.boldmss.com/TYC_SPORTS_2/TYC_SPORTS_2_BVC.isml/TYC_SPORTS_2.mpd
+
+#EXTINF:-1,Tyc Sports Internacional
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fdc62b44394044f5929d40ef41f425a1":"bc88342b7940f2f85dbe698cec2639c5"}
+#EXTINF:-1,Fox Sports
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fb87b63bd6ea4005b66b41cdaca7ba9b":"bb54f7132fb47d804723ec429ef65c81"}
+#EXTINF:-1,Fox Sports 2
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d2c3554c2f9540849031439326cce8e9":"f97391f9e36f6f33eed844ebaab72a8f"}
+#EXTINF:-1,Fox Sports 3
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_3_BACKUP/sa_live_dash/FOX_SPORTS_3_BACKUP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"940f756d43b4420892be348372467319":"6746cda92bff56869cceb79014c35147"}
+#EXTINF:-1,ESPN
+https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_6/sa_live_dash_ll/ESPN_BKP_6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ea7025085a58407e8ff8a0bb30124d5d":"43e27216f78044dfb0c134faa28029d4"}
+#EXTINF:-1,ESPN 2
+https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a2370ca5b9094aabaadc5e0f4a9679ca":"a3b13386e6929346c23ca8a48f4cfa9d"}
+#EXTINF:-1,ESPN 3
+https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3b6fa6524d254c96b5a101c8118d3ae6":"d5e2a9d3e2c5aa8587eada281acef6bc"}
+#EXTINF:-1,ESPN Premium
+https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c79a27f46f44bfbb774b8c7f1f1e57f":"530fd0cba9dc556a339b03af4b0951b9"}
+#EXTINF:-1,TNT Sports Premium
+https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BACKUP_21-5/sa_live_dash_ll/TNT_SPORTS_BACKUP_21-5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a93114df10b242f7bc447d5351ecf84a":"4d8fec73c75ac428aa214471196f332d"}
+#EXTINF:-1,Pakapaka
+https://cdn.trimi.com.ar/live/sm-live/PAKA_PAKA/sa_live_dash/PAKA_PAKA.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eba88d2678284eba880b1c0465eb63dd":"a2af7e1701e1a9ab1ee380719e56ad12"}
+#EXTINF:-1,Cartoon Network
+https://cdn.trimi.com.ar/live/sm-live/CARTOON/sa_live_dash/CARTOON.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1bc619a1a4994207b178c31d251b1852":"208f071a5aa2f68d2ac55f57a61d2413"}
+#EXTINF:-1,Nickelodeon
+https://cdn.trimi.com.ar/live/sm-live/NICK/sa_live_dash/NICK.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"deb672e305c9437eacdbc9d089d22d55":"12472c24acd1d9f45af3e506d8de76da"}
+#EXTINF:-1,Disney Channel
+https://cdn.trimi.com.ar/live/sm-live/DISNEY/sa_live_dash/DISNEY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3ab0e382392041d0ba4e0c8614d86f54":"b2eeb65ed3963f7b36656ded24b3fe0d"}
+#EXTINF:-1,Disney Junior
+https://cdn.trimi.com.ar/live/sm-live/DISNEY_JR/sa_live_dash/DISNEY_JR.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cfbc1a31ab534cbb84ecd4bf643bb892":"e88cebf2c562fbc15d993f30912678eb"}
+#EXTINF:-1,Discovery Kids
+https://cdn.trimi.com.ar/live/sm-live/DISCOVERY_KIDS/sa_live_dash/DISCOVERY_KIDS.mpd
+
+#EXTINF:-1,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"08c256c2691645c7862b0859676f3613":"d36fdcc51ca4c3e69a76a34c1bcbbca1"}
+#EXTINF:-1,Cartoonito
+https://cdn.trimi.com.ar/live/sm-live/CARTOONITO/sa_live_dash/CARTOONITO.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c789a53501c64b67823f376417c2ccf8":"2fcda015ff039142fd80ec508d47a9ff"}
+#EXTINF:-1,Tooncast
+https://cdn.trimi.com.ar/live/sm-live/TOONCAST/sa_live_dash/TOONCAST.mpd
+
+#EXTINF:-1,Warner Channel
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5842aa73fbf248ddb58e5ae78d609af5":"6530a0126b8639bf4ee07a460595b6ea"}
+#EXTINF:-1,TNT
+https://bvclive1.boldmss.com/TNT/TNT_BVC.isml/TNT.mpd
+
+#EXTINF:-1,HBO Family
+https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+
+#EXTINF:-1,Cine.Ar
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+
+#EXTINF:-1,Solidaria TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1,MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1?PlaylistM3UCL
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1,TierraMia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM3UCL
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
+#EXTINF:-1,Telefe Internacional
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e8c8e48bc6254f249218fd348aa5c587":"6cfbb561f854be342c6aac28166b21f2"}
+#EXTINF:-1,Canal 7 jujuy
+https://el4live1.boldmss.com/CANAL_7_JUJUY/CANAL_7_JUJUY_EL4.isml/CANAL_7_JUJUY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"662447df521fb590b72b1a11671c2afd":"81c204c443987d7b176587d626a124a0"}
+#EXTINF:-1,El Tres Rosario
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd
+
+#EXTINF:-1,Telefe Rosario
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7760caa058b51b7cce151c0539fa4a8f":"edd086c1011ed2c54cbe869d0e8d9289"}
+#EXTINF:-1,El Ocho Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
+
+#EXTINF:-1,Diario Panorama Santiago
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6a47917ca83343ea8dcca63189e36d78":"84b0fe420ed5de7ef83c608d78d74f15"}
+#EXTINF:-1,Canal 7 Santiago
+https://anedgesgo.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwMTIzMDE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2MxZWRzL0NhbmFsXzdfU2FudGlhZ28vU0FfREFTSF9jaXBpeC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU3NTNjMjNmMjQwZDFiM2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiNzYyMjEiLCJkZXZpY2VfaWQiOiIxODQ0OTg2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE5MC4yLjEwNS4yMjUiLCJzZXNzaW9uX3RpbWVvdXQiOjEyMDAsImF1ZCI6IjEzIiwic291cmNlcyI6WzRdfQ==.zIhaKOHn2W7cO_4xPTHMpY0HaWi4PcI4pNK3VouFqBjxv7C6G8-APKfa2eJaYOluBEMgmrnUS4QpVleAqQQgaA==/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=WPKtsRxaVIVVwQg9qdj51FCs81CEtcDG
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eec52ca8f4d229ae6aae86b6835256ed":"506afbd8be37e388f5d3ceb7992069d4"}
+#EXTINF:-1,Canal 7 Santiago HD
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc_C/Canal7_SDE.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=40eb9a4d4c2d374123cdaa14325f9589&key%5B%5D=432059bce61664caffc06223a1c081e2
+#EXTINF:-1,Telefe Cordoba
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=faf29a5a543c9d82ef34ec2479140003&key%5B%5D=2452197f9d4eb63a3081d986ca413375
+#EXTINF:-1,Canal 10 Cordoba
+https://lilac01.pontiscloud.com/bpk-tv/Canal10cba/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c816a8c004ab857e53d7897c7c1db1b&key%5B%5D=a57bb2fbf55f52d9d827a04bbb531588
+#EXTINF:-1,El Doce Cordoba
+https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1,Canal 8 Mar Del Plata
+https://cdn.sensa.com.ar/output/SMT2/C8MPD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1,Canal 10 Mar Del Plata
+https://cdn.sensa.com.ar/output/SMT6/C10MPD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
