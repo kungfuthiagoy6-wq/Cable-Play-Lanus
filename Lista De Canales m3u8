@@ -187,8 +187,8 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1?PlaylistM3
 #EXTINF:-1,TierraMia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM3UCL
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc0abcc84ec380cfc192b96d32abad23":"9b7825385b89ff82d01909a4ae404877"}
 #EXTINF:-1,Telefe Internacional
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
 
@@ -216,7 +216,7 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6a47917ca83343ea8dcca63189e36d78":"84b0fe420ed5de7ef83c608d78d74f15"}
 #EXTINF:-1,Canal 7 Santiago
-https://anedgesgo.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwMTIzMDE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2MxZWRzL0NhbmFsXzdfU2FudGlhZ28vU0FfREFTSF9jaXBpeC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU3NTNjMjNmMjQwZDFiM2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiNzYyMjEiLCJkZXZpY2VfaWQiOiIxODQ0OTg2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE5MC4yLjEwNS4yMjUiLCJzZXNzaW9uX3RpbWVvdXQiOjEyMDAsImF1ZCI6IjEzIiwic291cmNlcyI6WzRdfQ==.zIhaKOHn2W7cO_4xPTHMpY0HaWi4PcI4pNK3VouFqBjxv7C6G8-APKfa2eJaYOluBEMgmrnUS4QpVleAqQQgaA==/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=WPKtsRxaVIVVwQg9qdj51FCs81CEtcDG
+https://anedgesta.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTc2ODc4Iiwic2lwIjoiIiwicGF0aCI6IiIsInNlc3Npb25fY2RuX2lkIjoiNWMzNmY2YzFkOWI0MzFhNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiI3NjIyMSIsImRldmljZV9pZCI6IjE4NTgzMDYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTkwLjIuMTA1LjIyNSIsInNlc3Npb25fdGltZW91dCI6MTIwMCwiYXVkIjoiMTEiLCJzb3VyY2VzIjpbNF19.ffSuMsIa_yltbtAUroFq_uOua_BvI2rCN0B7FX79gGKiTGd-2Ae3CWf_IoNNexEjXV1nj1Wu9XD3KQMpCUZTNQ==/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=WPKtsRxaVIVVwQg9qdj51FCs81CEtcDG
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eec52ca8f4d229ae6aae86b6835256ed":"506afbd8be37e388f5d3ceb7992069d4"}
@@ -243,3 +243,6 @@ https://cdn.sensa.com.ar/output/SMT2/C8MPD/output.mpd?|referer=https://player.se
 
 #EXTINF:-1,Canal 10 Mar Del Plata
 https://cdn.sensa.com.ar/output/SMT6/C10MPD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1,Tele Posadas Misiones
+https://live20.bozztv.com/akamaissh101/ssh101/teleposadas/playlist.m3u8
